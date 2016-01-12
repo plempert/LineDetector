@@ -5,24 +5,30 @@ _This app detects lines and superimposes them unto an image_
 
 ### Box
 
-Original: 
+Original
+
 ![Box Original](https://github.com/plempert/LineDetector/blob/master/imgs/box.jpg?raw=true)
 
-Lines: 
+Lines
+
 ![Box Processed](https://github.com/plempert/LineDetector/blob/master/imgs/box_lines.jpg?raw=true)
 
 ### Hallway
 
-Original:
+Original
+
 ![Hallway Original](https://github.com/plempert/LineDetector/blob/master/imgs/hallway.jpg?raw=true)
 
-Edges:
+Edges
+
 ![Hallway Edges](https://github.com/plempert/LineDetector/blob/master/imgs/hallway_edges.jpg?raw=true)
 
-Edges+Lines:
+Edges+Lines
+
 ![Hallway Edges and Lines](https://github.com/plempert/LineDetector/blob/master/imgs/hallway_edges_lines.jpg?raw=true)
 
-Lines:
+Lines
+
 ![Hallway Lines](https://github.com/plempert/LineDetector/blob/master/imgs/hallway_lines.jpg)
 
 ## Explanation
